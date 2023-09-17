@@ -8,4 +8,4 @@ Allow: *.xml
 Allow: *.js
 Allow: *.css
 
-Sitemap: https://www.twitchgg.tv/sitemap.xml
+Sitemap: https://www.ttvrechat.arvrtise.com/sitemap.xml
